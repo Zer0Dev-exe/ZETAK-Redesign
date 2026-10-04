@@ -1,0 +1,8 @@
+node_modules
+dist
+.astro
+
+# Third-party assets (ZETAK logo, photos, poster) - not mine, not redistributed
+public/img/
+public/favicon.*
+public/apple-touch-icon.png
